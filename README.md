@@ -7,11 +7,13 @@ Proyek ini merupakan Capstone Project Data Mining yang bertujuan menganalisis da
 Analisis dilakukan untuk memahami kondisi alumni setelah lulus, terutama terkait status pekerjaan, waktu memperoleh pekerjaan, kesesuaian kurikulum dan bidang ilmu, serta karakteristik alumni berdasarkan hasil clustering.
 
 📊 Dataset
+
 Dataset terdiri dari 435 responden dengan 23 variabel, yang mencakup informasi akademik, pekerjaan, kewirausahaan, studi lanjut, serta penilaian alumni terhadap kurikulum dan bidang ilmu.
 
 Variabel identitas dan informasi kontak yang tidak diperlukan untuk analisis tidak digunakan dalam pemodelan.
 
 🔍 Analysis
+
 Tahapan analisis meliputi:
 
 Data cleaning dan preprocessing
@@ -23,6 +25,7 @@ K-Means Clustering untuk mengelompokkan alumni
 PCA untuk visualisasi hasil clustering
 
 💡 Key Findings
+
 Beberapa temuan dari analisis:
 
 Alumni memiliki kondisi pasca-kelulusan yang beragam, terutama dari sisi status pekerjaan.
