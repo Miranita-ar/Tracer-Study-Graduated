@@ -1,34 +1,7 @@
-# Tracer-Study-Graduated
-Tracer Study Alumni FST UIN Jakarta
+# Tracer Study Alumni FST UIN Jakarta
 
-📌 About Project
+Proyek ini menganalisis data tracer study alumni Fakultas Sains dan Teknologi (FST) UIN Syarif Hidayatullah Jakarta. Dataset terdiri dari 435 responden dengan 23 variabel yang mencakup latar belakang akademik, status pekerjaan, waktu memperoleh pekerjaan, kewirausahaan, studi lanjut, penghasilan, serta penilaian alumni terhadap kesesuaian kurikulum dan bidang ilmu. Menggunakan Python dengan library seperti pandas, matplotlib, seaborn, dan scikit-learn, saya melakukan preprocessing data, exploratory data analysis (EDA), serta K-Means clustering untuk mengidentifikasi pola dan karakteristik alumni.
 
-Proyek ini merupakan Capstone Project Data Mining yang bertujuan menganalisis data tracer study alumni Fakultas Sains dan Teknologi (FST) UIN Syarif Hidayatullah Jakarta.
-Analisis dilakukan untuk memahami kondisi alumni setelah lulus, terutama terkait status pekerjaan, waktu memperoleh pekerjaan, kesesuaian kurikulum dan bidang ilmu, serta karakteristik alumni berdasarkan hasil clustering.
+Analisis dilakukan untuk melihat status pekerjaan alumni, waktu memperoleh pekerjaan pertama, kesesuaian kurikulum dan bidang ilmu, serta hubungan antara tahun masuk dan tahun wisuda. Analisis clustering mengelompokkan alumni ke dalam tiga cluster berdasarkan karakteristik tertentu, dengan perbedaan yang terutama terlihat pada variabel penghasilan dan kewirausahaan. PCA juga digunakan untuk memvisualisasikan hasil clustering dan melihat karakteristik dari masing-masing kelompok.
 
-📊 Dataset
-
-Dataset terdiri dari 435 responden dengan 23 variabel, yang mencakup informasi akademik, pekerjaan, kewirausahaan, studi lanjut, serta penilaian alumni terhadap kurikulum dan bidang ilmu.
-
-Variabel identitas dan informasi kontak yang tidak diperlukan untuk analisis tidak digunakan dalam pemodelan.
-
-🔍 Analysis
-
-Tahapan analisis meliputi:
-
-Data cleaning dan preprocessing
-Exploratory Data Analysis (EDA)
-Analisis status dan waktu memperoleh pekerjaan
-Analisis kesesuaian kurikulum dan bidang ilmu
-Analisis hubungan tahun masuk dan tahun wisuda
-K-Means Clustering untuk mengelompokkan alumni
-PCA untuk visualisasi hasil clustering
-
-💡 Key Findings
-
-Beberapa temuan dari analisis:
-
-Alumni memiliki kondisi pasca-kelulusan yang beragam, terutama dari sisi status pekerjaan.
-Sebagian alumni memperoleh pekerjaan dalam waktu relatif singkat setelah lulus.
-Penilaian terhadap kesesuaian kurikulum dan bidang ilmu menunjukkan kecenderungan positif.
-Hasil clustering menunjukkan adanya beberapa kelompok alumni dengan karakteristik yang berbeda.
+Proyek ini menunjukkan kemampuan saya dalam menerapkan teknik data mining pada data pendidikan dan alumni, melakukan analisis eksploratif, serta mengidentifikasi pola menggunakan metode clustering. Proyek ini juga memperkuat keterampilan saya dalam Python, preprocessing data, visualisasi data, unsupervised learning, dan penyampaian insight berbasis data.
