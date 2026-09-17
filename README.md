@@ -2,6 +2,7 @@
 Tracer Study Alumni FST UIN Jakarta
 
 📌 About Project
+
 Proyek ini merupakan Capstone Project Data Mining yang bertujuan menganalisis data tracer study alumni Fakultas Sains dan Teknologi (FST) UIN Syarif Hidayatullah Jakarta.
 Analisis dilakukan untuk memahami kondisi alumni setelah lulus, terutama terkait status pekerjaan, waktu memperoleh pekerjaan, kesesuaian kurikulum dan bidang ilmu, serta karakteristik alumni berdasarkan hasil clustering.
 
